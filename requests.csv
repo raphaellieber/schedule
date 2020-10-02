@@ -1,0 +1,36 @@
+﻿name,proficiency,amount,Day 01,Day 02,Day 03,Day 04,Day 05,Day 06,Day 07,Day 08,Day 09,Day 10,Day 11,Day 12,Day 13,Day 14,Day 15,Day 16,Day 17,Day 18,Day 19,Day 20,Day 21,Day 22,Day 23,Day 24,Day 25,Day 26,Day 27,Day 28,Day 29,Day 30,Day 31
+אטיאס אייל,TRUE,2,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+אקהאוז מיכאל,TRUE,1,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+אשהב שדא,TRUE,4,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes
+בנג שרינה,TRUE,4,yes,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes
+גלעדי לירן,TRUE,2,no,no,no,yes,yes,yes,yes,yes,no,no,yes,yes,yes,no,no,no,no,no,no,no,yes,yes,no,no,no,yes,yes,no,no,no,no
+דריבן גלית,TRUE,4,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no
+ורמן רני,TRUE,4,no,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+ושאחי ג'ואד,TRUE,2,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no
+זיידל פוזנר עינת,TRUE,4,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+טויטו קורל,TRUE,4,no,no,no,no,no,no,mandatory,no,no,mandatory,no,no,no,mandatory,no,mandatory,no,no,no,no,no,no,no,no,no,no,no,no,no,no,no
+להמן הלל,TRUE,6,no,no,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+לוזון דוד,TRUE,6,yes,no,no,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+ליבר רפאל,TRUE,6,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+מחאגנה חוסאם,TRUE,6,no,yes,yes,yes,no,mandatory,yes,yes,yes,yes,yes,yes,mandatory,yes,yes,yes,yes,yes,yes,mandatory,yes,yes,yes,yes,yes,yes,yes,mandatory,yes,yes,yes
+נירוך מאלק,TRUE,2,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+סולטני שני,TRUE,2,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,mandatory,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,mandatory
+פרץ אלונה,TRUE,2,yes,yes,yes,yes,yes,yes,yes,mandatory,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,mandatory,yes,yes,yes,yes,yes,yes,yes,yes,yes
+קופמן רועי,TRUE,5,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+ראשי יהונתן,TRUE,6,no,yes,no,yes,yes,yes,yes,yes,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes
+אבו טיר חאזם,TRUE,6,no,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes
+אבו אלהווא מוחמד,FALSE,6,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes
+אבו גרביה מוחמד,FALSE,6,no,yes,yes,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes
+אבו חויג עולא,FALSE,5,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+אבו סנינה מג'די,FALSE,6,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,no,yes,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+אדויאת יאזאן,FALSE,6,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+אלליה עג'אג' גמאל,FALSE,4,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,no,no,no
+בדר רנים,FALSE,2,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+גיבריני מוכרם,FALSE,6,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,no
+דענא זכריא,FALSE,5,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+הלסי סונדוס,FALSE,5,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+הנדי אסמאעיל,FALSE,2,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+מחמוד חסן מוחמד,FALSE,6,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
+סלמן יאזן,FALSE,6,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,no,yes,yes,yes,yes,yes,yes,yes,yes,yes
+שעבאן מואייד,FALSE,6,no,no,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,no,yes,yes
+שעיבאת מוחמד,FALSE,6,no,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes,yes
